@@ -1,0 +1,6 @@
+framework module CoCoRx {
+  umbrella header "CoCoRx.h"
+
+  export *
+  module * { export * }
+}
